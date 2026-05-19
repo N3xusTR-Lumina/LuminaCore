@@ -3,7 +3,7 @@
 
 **Lisans Veren (Licensor):** TeamWay LSH
 **Lisans Alan (Licensee):** İbrahim Anadol
-**Geçerlilik Tarihi (Effective Date):** 20 Mayıs 2026
+**Geçerlilik Tarihi (Effective Date):** Belirtilmemiş
 
 İşbu Yazılım Lisans Sözleşmesi ("Sözleşme"), yukarıda bilgileri verilen Lisans Veren ile Lisans Alan arasında, aşağıda tanımlanan Yazılım ürünlerinin hem Açık Sistem hem de Kapalı Sistem yapılandırmalarında kullanım şartlarını belirlemek üzere akdedilmiştir. Lisans Alan, Yazılımı kullanarak bu sözleşme hükümlerine bağlı kalmayı kabul eder.
 
