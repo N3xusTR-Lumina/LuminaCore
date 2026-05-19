@@ -1,0 +1,201 @@
+TEAMWAY LSH YAZILIM LİSANS SÖZLEŞMESİ
+
+Lisans Veren: TeamWay LSH
+Lisans Alan: İbrahim Anadol
+Yürürlük Tarihi: Belirlenmedi
+
+İşbu sözleşme, TeamWay LSH tarafından geliştirilen yazılımların, altyapı sistemlerinin ve bağlantılı servislerin kullanım şartlarını belirlemek amacıyla hazırlanmıştır. Yazılımı kullanan herkes bu sözleşmedeki maddeleri kabul etmiş sayılır.
+
+Bu sözleşme; açık kaynak projeleri, özel şirket sistemleri, ticari servisler, SaaS altyapıları ve bireysel kullanımlar dahil olmak üzere tüm kullanım türlerini kapsar.
+
+MADDE 1 — TANIMLAR
+Yazılım
+
+TeamWay LSH tarafından geliştirilen tüm yazılım bileşenlerini kapsar. Buna kaynak kodları, derlenmiş dosyalar, modüller, API servisleri, entegrasyon araçları, paneller, kütüphaneler, görseller, sistem araçları ve dokümantasyonlar dahildir.
+
+Motor
+
+Yazılımın temel çekirdeğini oluşturan sistemdir. Render işlemleri, veri yönetimi, altyapı mantığı, ağ yönetimi ve sistem işleyişi bu yapı üzerinden çalışır.
+
+Açık Sistem
+
+Kodların herkese açık şekilde yayınlandığı, topluluk katkısına izin verilen geliştirme ortamlarını ifade eder.
+
+Kapalı Sistem
+
+Kaynak kodlarının paylaşılmadığı; şirket içi kullanılan, ticari amaç taşıyan veya son kullanıcıya kapalı şekilde çalışan sistemleri ifade eder.
+
+NSP Platformu
+
+TeamWay LSH altyapısına bağlı sunucular, servisler, API sistemleri, ağ yapıları ve bağlantılı dijital hizmetlerin tamamıdır.
+
+Wisbyte
+
+TeamWay LSH ile bağlantılı olarak çalışan hosting, servis dağıtımı, altyapı yönetimi ve dijital hizmet platformudur.
+
+MADDE 2 — LİSANS HAKLARI
+2.1 Kullanım Hakkı
+
+Lisans Alan, yazılımı kullanma, çalıştırma, düzenleme, geliştirme ve kendi projelerine entegre etme hakkına sahiptir.
+
+Bu hak dünya çapında geçerlidir ve ek bir ücret gerektirmez.
+
+2.2 Açık Kaynak Kullanımı
+
+Lisans Alan, yazılımı açık kaynak projelerinde kullanabilir, değiştirebilir ve paylaşabilir.
+
+Ancak:
+
+Orijinal telif ibareleri silinemez.
+TeamWay LSH adı tamamen kaldırılarak yazılım sahiplenilemez.
+Yazılımın temel yapısı başka bir marka adıyla sıfırdan yapılmış gibi gösterilemez.
+2.3 Ticari ve Kapalı Sistem Kullanımı
+
+Lisans Alan:
+
+Yazılımı ticari projelerde kullanabilir.
+Kapalı kaynak sistemlere entegre edebilir.
+SaaS servislerinde çalıştırabilir.
+Müşterilere hizmet sağlayabilir.
+Özel şirket altyapılarında kullanabilir.
+
+Bu kullanım sırasında kaynak kodlarını paylaşma zorunluluğu yoktur.
+
+2.4 Motor Üzerinde Değişiklik Yapma Hakkı
+
+Lisans Alan:
+
+Motor üzerinde değişiklik yapabilir.
+Sistemi optimize edebilir.
+Yeni özellikler ekleyebilir.
+Kod yapısını düzenleyebilir.
+Performans geliştirmeleri uygulayabilir.
+
+Bunlar için TeamWay LSH’den ayrıca izin alınması gerekmez.
+
+MADDE 3 — KISITLAMALAR
+3.1 Sahiplenme Yasağı
+
+Motor veya yazılımın tamamı, değiştirilmiş olsa bile tamamen farklı bir ürünmüş gibi gösterilemez.
+
+Lisans Alan:
+
+Sistemi kendi sıfırdan geliştirmiş gibi tanıtamaz.
+TeamWay LSH’e ait çekirdek yapıları kendi adına tescilleyemez.
+Yazılımın ana altyapısını bağımsız ürün olarak satamaz.
+
+Yazılım üzerindeki temel fikri mülkiyet hakları TeamWay LSH’e aittir.
+
+3.2 Güvenlik İhlali Yasağı
+
+NSP Platformu, Wisbyte altyapıları veya bağlantılı servisler üzerinde aşağıdaki işlemler kesin olarak yasaktır:
+
+Yetkisiz erişim girişimleri
+Sistem açıklarını zorlayıcı işlemler
+DDoS saldırıları
+Zararlı bot sistemleri
+Otomatik saldırı araçları
+Veri çekme ve veri madenciliği işlemleri
+Güvenlik mekanizmalarını aşmaya yönelik çalışmalar
+Hizmet kesintisine neden olacak işlemler
+
+Lisans Alan, kendi kullanıcılarının yaptığı ihlallerden de sorumlu tutulabilir.
+
+3.3 Zararlı Yazılım ve Tooling Yasağı
+
+Yazılımın kullanıldığı sistemlerde aşağıdaki yapıların geliştirilmesi veya dağıtılması yasaktır:
+
+Zararlı otomasyon sistemleri
+Platform manipülasyonu yapan araçlar
+Abuse sistemleri
+Spam altyapıları
+API sömürüsü yapan botlar
+Platform limitlerini aşmaya yönelik araçlar
+3.4 Alt Lisanslama
+
+Lisans Alan, bu sözleşmeyle verilen hakları doğrudan başka kişi veya kuruluşlara devredemez.
+
+Yazılımın ham hali üçüncü taraflara yeniden lisanslanamaz.
+
+MADDE 4 — WISBYTE VE DESTEK POLİTİKASI
+4.1 Wisbyte Altyapısı
+
+Wisbyte, TeamWay LSH ile bağlantısı olmayan bir docker platformudur.
+
+Projeler için:
+
+Ücret Ödeme/Sunucu Kiralama
+
+gibi hizmetler sağlanabilir.
+
+4.2 Destek Politikası
+
+Topluluk geliştiricilerine ve projelere mümkün olduğunca erişilebilir destek sunulması hedeflenir.
+
+Teknik destek, entegrasyon yardımı ve altyapı desteği; projenin durumuna göre sağlanabilir.
+
+4.3 Ücret Politikası
+
+Platform içerisindeki servis ücretleri mümkün olduğunca düşük tutulmaya çalışılır.
+
+Amaç:
+
+Geliştiricilerin erişimini kolaylaştırmak
+Küçük projeleri desteklemek
+Topluluk büyümesini hızlandırmaktır.
+MADDE 5 — GARANTİ REDDİ
+
+Yazılım “olduğu gibi” sunulur.
+
+TeamWay LSH:
+
+Yazılımın hatasız çalışacağını garanti etmez.
+Kesintisiz hizmet sözü vermez.
+Belirli bir amaca uygunluk garantisi sunmaz.
+Veri kaybı, sistem çökmesi veya güvenlik problemlerinden sorumlu tutulamaz.
+
+Yazılımın kullanımından doğabilecek tüm risk kullanıcıya aittir.
+
+MADDE 6 — SORUMLULUK SINIRI
+
+Hiçbir durumda TeamWay LSH:
+
+Veri kaybı
+İş kaybı
+Ticari zarar
+Sunucu arızaları
+Güvenlik ihlalleri
+Hizmet kesintileri
+Dolaylı zararlar
+
+nedeniyle sorumlu tutulamaz.
+
+MADDE 7 — SÖZLEŞMENİN FESHİ
+
+Lisans Alan’ın bu sözleşmedeki maddeleri ihlal etmesi durumunda TeamWay LSH, lisansı tek taraflı olarak sonlandırabilir.
+
+Özellikle aşağıdaki durumlar doğrudan fesih sebebidir:
+
+Motor sahiplenmeye çalışılması
+NSP veya Wisbyte altyapılarına zarar verilmesi
+Güvenlik ihlalleri
+Zararlı araç geliştirilmesi
+Sistemin kötüye kullanılması
+
+Fesih durumunda Lisans Alan:
+
+Yazılım kullanımını durdurmak,
+Dağıtımları sonlandırmak,
+Sisteme bağlı servisleri kapatmak
+
+zorundadır.
+
+MADDE 8 — SON HÜKÜMLER
+
+Bu sözleşme, TeamWay LSH tarafından gerektiğinde güncellenebilir.
+
+Güncel sürümün takip edilmesi Lisans Alan’ın sorumluluğundadır.
+
+Sözleşmenin herhangi bir maddesinin geçersiz sayılması, diğer maddelerin geçerliliğini etkilemez.
+
+Bu sözleşmeyi kullanan herkes belirtilen şartları kabul etmiş sayılır.
